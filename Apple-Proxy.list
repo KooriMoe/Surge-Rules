@@ -5,6 +5,10 @@
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.co
 
+# Apple Push Notification Service
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+
 # App Functions
 DOMAIN,api.apple-cloudkit.com
 DOMAIN-SUFFIX,appattest.apple.com

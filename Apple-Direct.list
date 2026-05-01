@@ -14,7 +14,6 @@ DOMAIN,ocsp.digicert.cn
 DOMAIN-SUFFIX,apple.com.akadns.net
 DOMAIN-SUFFIX,apple-support.akadns.net
 DOMAIN-SUFFIX,cdn-apple.com.akadns.net
-DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,origin-apple.com.akadns.net
 
 # Setup
@@ -26,7 +25,6 @@ DOMAIN,time.asia.apple.com
 DOMAIN,time-macos.apple.com
 DOMAIN,identity.apple.com
 DOMAIN,gsa.apple.com
-DOMAIN-SUFFIX,push.apple.com
 
 # OS Updates
 DOMAIN,appldnld.apple.com
