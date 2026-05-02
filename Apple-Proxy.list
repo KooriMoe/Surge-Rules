@@ -5,11 +5,10 @@
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.co
 
+token.safebrowsing.apple
+
 # App Functions
 DOMAIN-SUFFIX,apple-cloudkit.com
-
-# Siri and Searching
-DOMAIN-SUFFIX,smoot.apple.com
 
 # iCloud Private Relay
 DOMAIN,mask.icloud.com
