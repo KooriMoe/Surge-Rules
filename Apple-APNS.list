@@ -2,6 +2,7 @@
 # THIS IS A RULESET
 # Necessary for mainland China only with a PROXY.
 
+PROCESS-NAME,apsd
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,courier.push.apple.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
