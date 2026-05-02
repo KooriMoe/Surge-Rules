@@ -19,6 +19,11 @@ DOMAIN-SUFFIX,icloud.com
 # Additional Domains
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.cn
+DOMAIN,gs-loc-cn.apple.com
+DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
+DOMAIN-SUFFIX,cn-ssl.ls.apple.com
+DOMAIN-SUFFIX,cn.ls.apple.com
+DOMAIN-SUFFIX,cn.apple.com
 
 # Device Setup
 DOMAIN,albert.apple.com
