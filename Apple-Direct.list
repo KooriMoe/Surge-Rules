@@ -16,6 +16,10 @@ DOMAIN-SUFFIX,icloud.com
 
 # --- Domain Rules ---
 
+# Additional Domains
+DOMAIN,www.apple.com
+DOMAIN,www.apple.com.cn
+
 # Device Setup
 DOMAIN,albert.apple.com
 DOMAIN,captive.apple.com
@@ -41,7 +45,6 @@ DOMAIN,axm-servicediscovery.apple.com
 DOMAIN,idmsa.apple.com
 DOMAIN,api.ent.apple.com
 DOMAIN,api.edu.apple.com
-DOMAIN,www.apple.com.cn
 DOMAIN,upload.appleschoolcontent.com
 DOMAIN,api-business.apple.com
 DOMAIN,api-school.apple.com
@@ -78,7 +81,7 @@ DOMAIN,wkms-public.apple.com
 # Apps and additional content
 DOMAIN,itunes.com
 DOMAIN,ppq.apple.com
-DOMAIN,token.safebrowsing.apple
+DOMAIN-SUFFIX,music.apple.com
 DOMAIN,audiocontentdownload.apple.com
 DOMAIN,devimages-cdn.apple.com
 DOMAIN,download.developer.apple.com
@@ -101,9 +104,6 @@ DOMAIN,fba.apple.com
 # Apple diagnostics
 DOMAIN,diagassets.apple.com
 
-# Domain Name System resolution
-DOMAIN,doh.dns.apple.com
-
 # Certificate validation
 DOMAIN,certs.apple.com
 DOMAIN,crl.apple.com
@@ -121,6 +121,7 @@ DOMAIN,gsa.apple.com
 
 # Siri
 DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
 
 # Associated Domains
 DOMAIN,app-site-association.networking.apple
