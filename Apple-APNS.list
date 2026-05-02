@@ -1,0 +1,6 @@
+# Apple-APNS.list
+# THIS IS A RULESET
+# Necessary for mainland China only with a PROXY.
+
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,courier.push.apple.com
