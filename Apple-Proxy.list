@@ -5,7 +5,7 @@
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.co
 
-token.safebrowsing.apple
+DOMAIN,token.safebrowsing.apple
 
 # App Functions
 DOMAIN-SUFFIX,apple-cloudkit.com
