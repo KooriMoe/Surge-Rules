@@ -78,7 +78,6 @@ DOMAIN,wkms-public.apple.com
 # Apps and additional content
 DOMAIN,itunes.com
 DOMAIN,ppq.apple.com
-DOMAIN,api.apple-cloudkit.com
 DOMAIN,token.safebrowsing.apple
 DOMAIN,audiocontentdownload.apple.com
 DOMAIN,devimages-cdn.apple.com
